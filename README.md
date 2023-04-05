@@ -1,5 +1,7 @@
 # another-realtime-anpr
 
+Link to: [another-realtime-anpr-ocr](https://github.com/sepdijono/another-realtime-anpr-ocr)
+
 We regret to inform you that we only provide guides for Linux users, specifically Ubuntu.
 
 **Automatic Number Plate Recognition Using Yolov3**
@@ -28,7 +30,7 @@ If you in trouble with easyocr dependencies I suggest to install easyocr first b
 Usage:
 ```uvicorn ocrs_fast:app --reload```
 
-**Part 2 - License Plate Recognition Program**
+**Part 2 - License Plate Recognition Program** - You are here !!!
 The main program reads from a camera or video file and iterates to display the detected license plate (using YOLOv3) in a box/frame on the screen.
 
 Environment
