@@ -1,5 +1,8 @@
 # another-realtime-anpr
 
+![Selection_999(422)](https://user-images.githubusercontent.com/54463742/230339462-30eed17b-f66b-4277-b70a-865851b4d13f.png)
+
+
 Link to: [another-realtime-anpr-ocr](https://github.com/sepdijono/another-realtime-anpr-ocr)
 
 We regret to inform you that we only provide guides for Linux users, specifically Ubuntu.
@@ -47,6 +50,11 @@ Usage :
 Before that you want to create folder name "foto-plat-nomor" inside the project, this folder will contains all detected number plates. 
 
 Using camera:
+
+
+https://user-images.githubusercontent.com/54463742/230343378-9e6f63a3-1fb6-4209-8fdd-c00490a8b7c4.mp4
+
+
 
 ```python main.py -icam0```
 You can change device by changing number behind -icam0 for camera number 1, -icam1 for camera number 2 etc
