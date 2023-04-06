@@ -22,7 +22,7 @@ The following environment is required for running the Easy OCR Server:
   
 To install the required packages, run the following command:
 
-```pip install -r api-requirements.txt``
+```pip install -r api-requirements.txt```
 
 If you in trouble with easyocr dependencies I suggest to install easyocr first before others, here is how to install  easyocr :
 ```pip install easyocr```
