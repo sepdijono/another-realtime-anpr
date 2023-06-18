@@ -1,1 +1,1 @@
-Info : untuk sementara file "models.weights" belum tersedia, silakan download dari repository lain
+Info : for the time being, the file 'models.weights' is not available. Please contact me if you want the appropriate 'models.weights' for this repository, or you can download it from another repository
